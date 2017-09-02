@@ -1,12 +1,12 @@
-# aind2-dl
+# Keras_IMDB_Example
 
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/udacity/aind2-dl.git
-		cd aind2-dl
+		git clone https://github.com/raagpa/Keras_IMDB_Example.git
+		cd Keras_IMDB_Example
 	```
 
 2. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
